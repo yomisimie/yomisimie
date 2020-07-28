@@ -1,4 +1,5 @@
 ### Hi there 👋
+Web developer in learning, mostly working on php. Working with wordpress, symfony, opencart.
 
 <!--
 **yomisimie/yomisimie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
