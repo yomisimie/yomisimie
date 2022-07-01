@@ -1,17 +1,16 @@
 ### Hi there 👋
-Web developer in learning, mostly working on php. Working with wordpress, symfony, opencart.
+Web developer in learning.
+Started with Wordpress and Opencart.
+Moved on to Symfony and Angular.
+Now upgraded to JS with Node and React with some C# in between.
+Used Bootstrap for a few years, now learning Tailwind.
 
-<!--
-**yomisimie/yomisimie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Current projects:
+🙋 QOTD - a discord bot to ask a Question of the Day for a friend's server
+🕹️ GTV - a discord bot to use to question other people about a video game that you know of with description, images and hints
+📻 Grand Theft Radio - Angular ongoing project to recreate GTA V radio in browser. Most of the work done, needs some fine tweaking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Fun fact 🤔:
+The sweet orange is not a wild fruit, it is a cross between a pomelo and a mandarin.
