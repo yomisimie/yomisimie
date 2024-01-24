@@ -4,7 +4,7 @@ Started with Wordpress and Opencart.<br/>
 Moved on to Symfony and Angular.<br/>
 Now upgraded to JS with Node and React with some C# in between.<br/>
 Also improving SQL, mostly Microsoft SQL.
-Used Bootstrap for a few years, now learning Tailwind.
+Used Bootstrap for a few years, still using Bootstrap.
 <br/><br/><br/>
 Current projects:<br/>
 🙋 QOTD - a discord bot to ask a Question of the Day for a friend's server<br/>
