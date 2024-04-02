@@ -1,5 +1,5 @@
 ### Hi there 👋<br/>
-Web developer in learning.<br/>
+Web developer.<br/>
 Started with Wordpress and Opencart.<br/>
 Moved on to Symfony and Angular.<br/>
 Now upgraded to JS with Node and React with some C# in between.<br/>
