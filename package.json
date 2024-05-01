@@ -1,0 +1,14 @@
+{
+  "name": "yomisimie",
+  "version": "1.0.0",
+  "description": "Personal portfolio website",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yomisimie",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}

@@ -1,0 +1,55 @@
+@import './node_modules/bootstrap/scss/bootstrap';
+
+body {
+    &.Y1990 {
+        --bg: #c1c1c1;
+        --bgImg: url('./assets/img/bg.jpg');
+        --border: 5px outset gray;
+        --bs-border-opacity: 1;
+        --bs-border-style: groove;
+        --bs-border-color: gray;
+        --bs-border-width: 3px;
+        --bs-body-font-family: "Times New Roman", serif;
+        --bs-button-background-color: #c0c0c0;
+        --bs-button-border-style: outset;
+        --bs-button-border: 2px var(--bs-button-border-style) var(--bs-border-color);
+        --bs-skill-border-style: ridge;
+    }
+    background-color: var(--bg);
+    background-image: var(--bgImg);
+    hr {
+        border-top-style: var(--bs-border-style);
+        border-top-width: var(--bs-border-width);
+        border-top-color: var(--bs-border-color);
+        opacity: var(--bs-border-opacity);
+    }
+    button {
+        border: var(--bs-button-border);
+        background: var(--bs-button-background-color);
+    }
+    .skills {
+        .skill {
+            border: 5px var(--bs-skill-border-style) var(--bs-button-background-color);
+            line-height: 32px;
+            img {
+                max-height: 32px;
+            }
+        }
+    }
+    .container {
+        max-width: 960px;
+        margin: 0 auto;
+        border: var(--border);
+    }
+    footer {
+        #visitor-count {
+            line-height: 3rem;
+            span {
+            vertical-align: middle;
+            display: inline-block;
+                color: #0a53be;
+                font-size: 1.5rem;
+            }
+        }
+    }
+}
