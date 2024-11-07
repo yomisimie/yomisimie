@@ -1,3 +1,5 @@
+[![yomisimie's GitHub stats](https://github-readme-stats.vercel.app/api?username=yomisimie)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Hi there 👋<br/>
 Web developer.<br/>
 Started with Wordpress and Opencart.<br/>
